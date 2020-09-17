@@ -1,0 +1,6 @@
+# Exclude these files from git:
+*.o
+*.exe
+
+# Include main.exe file
+!main.exe
